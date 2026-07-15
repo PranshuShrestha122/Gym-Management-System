@@ -1,0 +1,14 @@
+Member Details
+
+--------------------------------------------------
+ID: 1
+Name: pra
+Location: sw
+Phone: 9860741765
+Email: raidou@gmail.com
+Gender: Male
+DOB: 1-January-2025
+Membership Start Date: 1-January-2025
+Type: Premium
+--------------------------------------------------
+
